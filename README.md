@@ -55,7 +55,7 @@ In this assignment, you will implement a basic style transfer framework utilizin
   * Can you explain the types of images suitable for content/style?
 * For `Style Transfer`
   * Does the style transfer result look visually pleasing?
-  * If not, list at least three ways to enhance it.
+  * If not, list at least three ways to improve it.
 
 # Submission
 * Include all the results in a PDF file. 
