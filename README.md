@@ -58,12 +58,17 @@ In this assignment, you will implement a basic style transfer framework utilizin
   * If not, list at least three ways to improve it.
 
 # Submission
+
+* **NOTE: Updated 6/20/2023** 
+* Navigate to the submission folder for HW2 at [here](https://drive.google.com/drive/folders/1SAUYLKyXfgZ7JiOueIIpis0e1t3axuah)
+* Locate the folder with your name.
 * Include all the results in a PDF file. 
 * The PDF file should contain the following information, from top to bottom:
   * Your name, email, and student ID.
   * Codes for the five TODOs.
   * Images for ALL experiments (each row: content image, style image, and output image)
-  * Short answers for ALL questions in the `Results and Discussion` section. 
+  * Short answers for ALL questions in the `Results and Discussion` section.  
+* Submit the PDF file by placing it in your folder.
 
 # Deadline
 * 07/02/2023
