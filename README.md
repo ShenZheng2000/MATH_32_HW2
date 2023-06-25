@@ -1,5 +1,10 @@
 # MATH_32_HW2
 
+# NOTE
+**For all questions related to this homework, please open a github issue so others with similar problems can benefit from it.**
+
+Or you can contact the instructors via email: [Shen Zheng](shenzhen@andrew.cmu.edu), [Changjie Lu](lucha@kean.edu)
+
 # Overview
 In this assignment, you will implement a basic style transfer framework utilizing Gram matrices. The primary objectives are understanding how style and content can be manipulated within images and gaining experience in hyperparameter tuning. This task will enhance your comprehension of style transfer principles and aid in the development of your optimization skills.
 
