@@ -76,4 +76,4 @@ In this assignment, you will implement a basic style transfer framework utilizin
 * Submit the PDF file by placing it in your folder.
 
 # Deadline
-* ~~07/02/2023~~ 07/07/2023
+* ~~07/02/2023~~ **07/07/2023**
